@@ -1,2 +1,5 @@
 # Contains:
-Polynomial-Root-Finder
+Polynomial Root Finder
+GCD Finder
+Integer Factorizer
+Ord Finder
